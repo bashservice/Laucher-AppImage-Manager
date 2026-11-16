@@ -3,7 +3,7 @@
 
 Prosty menedżer aplikacji dla systemu Linux, napisany w Pythonie z użyciem Tkintera. Pozwala dodawać pliki `.AppImage` i skrypty `.sh` do listy, przypisywać im ikony oraz uruchamiać je z poziomu graficznego okna.
 
-https://github.com/user-attachments/assets/ab09e26b-1550-42a5-a2db-48b43c98245d
+
 
 
 ## Funkcje
